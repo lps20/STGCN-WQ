@@ -29,8 +29,8 @@ See the `requirements.txt` for a full list of dependencies.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
-   cd yourproject
+   git clone https://github.com/lps20/STGCN-WQ
+   cd STGCN-WQ
 2. Install the dependencies:
     ```bash
     pip install -r requirements.txt
