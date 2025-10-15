@@ -60,5 +60,3 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 3. **Usage**: Provides an example command for running the script and describes the parameters.
 4. **Project Structure**: Outlines the main files and their purposes.
 5. **Features**: Summarizes the key functionality of the project.
-
-You can update the repository URL, file paths, and any other specific details based on your actual project setup. Let me know if you need more detailed instructions or examples!
